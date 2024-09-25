@@ -1,0 +1,2 @@
+Frontend: Deploy the React app on Netlify.
+Backend: Deploy the Spring Boot app on Heroku with PostgreSQL add-on.
